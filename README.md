@@ -1,4 +1,4 @@
-# Churn Prediction Model
+Churn Prediction Model
 This repository contains a machine learning model that predicts customer churn using a Random Forest classifier. The goal is to identify customers who are likely to stop using a product or service.
 
 Usage
